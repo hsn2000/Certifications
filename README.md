@@ -29,6 +29,7 @@ This Repository contains all my online course certificates by verified organizat
           4) Convolutional Neural Networks                        
           5) Sequence Models                        
                                   
+---> Verification Link: https://www.coursera.org/account/accomplishments/specialization/certificate/WQE33MAN7C7A  
 ---> Duration: Approximately 17 weeks to complete                        
 
 # Machine Learning Specialization by DeepLearning.ai (Coursera)                 
