@@ -40,6 +40,7 @@ This Repository contains all my online course certificates by verified organizat
           2) Advanced Learning Algorithms                        
           3) Unsupervised Learning, Recommenders, Reinforcement Learning
           
+---> Verification Link: https://www.coursera.org/account/accomplishments/specialization/certificate/77ATLBWDC8F5
 ---> Duration: Approximately 10 weeks to complete  
 
 # Data Scientist with Python Track (DataCamp)                
@@ -72,9 +73,12 @@ This Repository contains all my online course certificates by verified organizat
           23) Machine Learning with Tree-Based Models in Python
           24) Cluster Analysis in Python
           
+---> Verification Link: https://www.datacamp.com/statement-of-accomplishment/track/4929c9ff54d2ee19e8abda97d8ffa6e8eb5f4cac
 ---> Duration: 97 Hours of lectures and excercises (excluding Projects and Skill Assesments) 
 
 # Introduction to Git and GitHub by Google (Coursera)
+
+---> Verification Link: https://www.coursera.org/account/accomplishments/certificate/7LQD8NXUV8HA
 ---> Duration: 1 Week
 
           
