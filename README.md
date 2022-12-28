@@ -1,6 +1,24 @@
 # Certifications
 This Repository contains all my online course certificates by verified organizations.
 
+# AWS Cloud Foundations (AWS Academy)     
+
+    
+          1) Cloud Concepts Overview                      
+          2) Cloud Economics and Billing                      
+          3) AWS Global Infrastructure Overview
+          4) AWS Cloud Security
+          5) Networking and Content Delivery  
+          6) Compute
+          7) Storage                     
+          8) Databases                       
+          9) Cloud Architecture
+          10) Automatic Scaling and Monitoring
+          ---> All above topics with lab included 
+
+---> Verification Link: https://www.credly.com/go/N7J5X3mQ                                               
+---> Duration: Approximately 20 hours worth of content 
+
 # Deep Learning Specialization by DeepLearning.ai (Coursera)                 
 
 ---> Total 5 Courses:                       
